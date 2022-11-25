@@ -2,6 +2,9 @@
 
 A delivery Flutter application, where the module is public, that is, the one that a customer observes to buy a product or service from a company.
 
+#### NOTE
+Keep an eye out for this readme as it will be updated progressively.
+
 ## Getting Started
 
 Purpose of this app are:
