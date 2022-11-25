@@ -1,22 +1,27 @@
 # uber_eats_consumer
 
-A new Flutter application.
+A delivery Flutter application, where the module is public, that is, the one that a customer observes to buy a product or service from a company.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Purpose of this app are:
 
-A few resources to get you started if this is your first Flutter project:
+- Change the UI with a series of requirements that will be delivered later.
+- Remove all functions associated with Firebase and connect them to an external server.
+- The communication between the server and the app must be totally fluid.
+- The application must have Light and Dark Themes.
+- The application must have a translation of multiple languages ​​(in, is, as a minimum).- The entire application must be properly documented, please do not send anything without being previously documented.
+- When sending an update or feedback please send it as a link to the repository (refrain from sending .rar or drive links or other).
+- On the backend side, it must also be documented, and have an easy deployment.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Checkers
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+Not available.
 
-# Foodies
+### More activities
 
-# Foodies
+Not available.
 
-# Single_rest
+#### About
+
+Not available.
